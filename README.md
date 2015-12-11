@@ -1,0 +1,2 @@
+# ScoutAttendance
+Scout Attendance application
